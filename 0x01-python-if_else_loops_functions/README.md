@@ -1,0 +1,1 @@
+The projects tend to use the conditional statements, loops and functions to work out problems in python programming language
