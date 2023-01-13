@@ -2,6 +2,8 @@
 
 
 """ Define a class"""
+
+
 class Rectangle:
     """rectangle representation"""
     pass
