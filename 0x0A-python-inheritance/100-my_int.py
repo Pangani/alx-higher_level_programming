@@ -3,7 +3,7 @@
 
 
 class Myint(int):
-    """Invent int operators == and !=."""
+    """Invert int operators == and !=."""
 
     def __eq__(self, value):
         """Override == operator with != behaviour."""
