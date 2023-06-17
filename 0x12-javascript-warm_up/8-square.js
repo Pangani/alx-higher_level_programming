@@ -14,5 +14,5 @@ if (parseInt(size)) {
     console.log(mySpace);
   }
 } else {
-  console.log('Missing Size');
+  console.log('Missing size');
 }
